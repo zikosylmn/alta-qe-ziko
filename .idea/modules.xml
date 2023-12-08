@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/object-oriented-programming/OOP1/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/OOPsoal2/OOPsoal2.iml" filepath="$PROJECT_DIR$/object-oriented-programming/OOPsoal2/OOPsoal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/Problem1/Problem1.iml" filepath="$PROJECT_DIR$/basic-programming/Problem1/Problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/Problem2/Problem2.iml" filepath="$PROJECT_DIR$/basic-programming/Problem2/Problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/Problem3/Problem3.iml" filepath="$PROJECT_DIR$/basic-programming/Problem3/Problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/alta-qe-ziko.iml" filepath="$PROJECT_DIR$/.idea/alta-qe-ziko.iml" />
+    </modules>
+  </component>
+</project>
